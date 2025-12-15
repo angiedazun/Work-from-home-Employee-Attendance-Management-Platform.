@@ -1,4 +1,4 @@
-# 🏢 OA System - Work From Home Attendance System
+# 🏢 Work From Home Attendance System
 
 A comprehensive **MERN Stack** application for managing work-from-home employee attendance with **face recognition technology**.
 
