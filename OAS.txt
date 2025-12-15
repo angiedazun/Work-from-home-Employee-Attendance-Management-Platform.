@@ -1,0 +1,8 @@
+Frontend: React.js, Tailwind CSS
+Backend: Node.js, Express.js
+Database: MongoDB
+Face Recognition: face-api.js
+Authentication: JWT
+
+Demo Credentials:
+Admin: admin@oasystem.com / Admin@123

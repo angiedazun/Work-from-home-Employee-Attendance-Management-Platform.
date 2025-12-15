@@ -1,0 +1,12 @@
+{
+  "name": "oa-system-database-setup",
+  "version": "1.0.0",
+  "description": "Database setup script for OA System",
+  "main": "setup-database.js",
+  "scripts": {
+    "setup": "node setup-database.js"
+  },
+  "dependencies": {
+    "mongodb": "^6.21.0"
+  }
+}
